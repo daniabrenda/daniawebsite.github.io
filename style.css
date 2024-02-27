@@ -1,0 +1,144 @@
+body {
+    color: #1b526b;
+    margin: 0;
+    text-align: center;
+}
+
+.cover {
+    height:500px;
+    width: auto;
+    background-color: beige;
+    margin: 0px;
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    margin-bottom: 0;
+}
+
+.cover .sub-nombre {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 0;
+}
+.cover .imagen-1 {
+    position: relative;
+    top: 90px;
+}
+.space {
+    height: 150px;
+}
+.primera-parte {
+    position: relative;
+    left: 15%;
+    width: 70%;
+    align-items: center;
+}
+.informacion-personal {
+    
+    border-radius: 48%;
+    background-color: bisque;
+}
+.hello {
+    font-size: 50px;
+
+}
+p {
+    font-size: 22px;
+    line-height: 1.5; 
+}
+span {
+    background-color: rgb(211, 42, 42);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+    color: white;
+ 
+}
+
+.skills-nombre {
+    margin-top: 80px;
+}
+.skills{
+        height: 50%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.contenedor {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr auto;
+    width: 70vh;
+    gap: 20px;
+    color:#1b526b;
+
+
+}
+
+button {
+    color: white;
+    background-color: #1b526b;
+    width: 200px;
+    height: 60px;
+    font-size:larger;
+    border-bottom: black;
+    border-radius: 10px;
+}
+
+.info-comida {
+    text-align: left;
+    background-color: white; 
+    border: 1px solid black; 
+    padding: 20px; 
+}
+
+.info-soccer {
+    text-align: left;
+    text-align: left;
+    background-color: white; 
+    border: 1px solid black; 
+    padding: 20px; 
+}
+
+.imagen-soccer {
+    text-align: left;
+    background-color: white; 
+    border: 1px solid black; 
+    padding: 20px; 
+}
+
+.comida-imagen {
+    text-align: left;
+    border: 1px solid black; 
+    padding: 20px; 
+}
+
+.ssmm {
+    display: grid;
+    
+}
+.ssmm p {
+    word-spacing: 01em;
+}
+
+.footer {
+    background-color: aliceblue;
+    margin-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.contact {
+    margin-top: 80px;
+}
+
+.firma {
+    margin-bottom: 0px;
+}
